@@ -1,4 +1,3 @@
-# react-fullstack-test-mobile-app
 
 ![1](https://user-images.githubusercontent.com/32128099/151274402-a8e0a5cf-c3db-4759-beea-be1c7225940a.jpeg =100x500)
 ![2](https://user-images.githubusercontent.com/32128099/151274408-a8d62a78-bba1-47e9-8c9e-e64480bc808e.jpeg =100x500)
